@@ -1,0 +1,858 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDLL\\CSpiceDll\\cspice\\str2et_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\str2et_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\brief_c\\SpiceZpr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\brief_c\\SpiceZpr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\spkezr_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\spkezr_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\reclat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\reclat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\reclat_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\reclat_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\furnsh_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\furnsh_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\f2cMang.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\f2cMang.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\commnt_c\\signal1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSpiceDll\\commnt_c\\signal1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\f2c.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\f2c.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dskx02_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\dskx02_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\drdlat_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\drdlat_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dlatdr_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\dlatdr_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\getfov_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\getfov_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvar_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\bodvar_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodfnd_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\bodfnd_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gffove_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\gffove_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\azlcpo_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\azlcpo_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\azlrec_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\azlrec_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\b1900_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\b1900_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\b1950_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\b1950_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\badkpv_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\badkpv_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvcd_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\bodvcd_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvrd_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\bodvrd_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckcov_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\ckcov_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckfrot_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\ckfrot_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckfxfm_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\ckfxfm_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckgpav_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\ckgpav_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gfevnt_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\gfevnt_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gfocce_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\gfocce_c.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\s_paus.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\s_paus.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\open.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\err.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\err.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\close.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\close.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\zzfcstring.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\zzfcstring.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dtime_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\dtime_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\etime_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\etime_.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\inquire.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\inquire.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\fio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\fio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\rsne.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\rsne.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_sqrt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\c_sqrt.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_sin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\c_sin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_cos.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\c_cos.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_exp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\c_exp.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_log.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DFDC88B-9C77-405D-8230-8FCBFBA5A593}|CSpiceDll\\CSpiceDll.vcxproj|solutionrelative:CSpiceDll\\cspice\\c_log.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_io.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\toxfr_c\\signal1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSpiceDll\\toxfr_c\\signal1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSpiceDll\\cspice\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\toxfr_c\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSpiceDll\\toxfr_c\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\dskexp_c\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSpiceDll\\dskexp_c\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\chrnos_c\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSpiceDll\\chrnos_c\\SpiceUsr.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1259,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpiceZpr.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\brief_c\\SpiceZpr.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\brief_c\\SpiceZpr.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\brief_c\\SpiceZpr.h",
+              "RelativeToolTip": "CSpiceDll\\brief_c\\SpiceZpr.h",
+              "ViewState": "AQIAALwRAAAAAAAAAAAwwMQRAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-03T20:26:35.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "signal1.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\commnt_c\\signal1.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\commnt_c\\signal1.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\commnt_c\\signal1.h",
+              "RelativeToolTip": "CSpiceDll\\commnt_c\\signal1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T15:33:32.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "reclat_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\reclat_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\reclat_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\reclat_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\reclat_c.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:29:38.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reclat.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\reclat.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\reclat.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\reclat.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\reclat.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:28:27.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "f2c.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\f2c.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\f2c.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\f2c.h",
+              "RelativeToolTip": "CSpiceDll\\f2c.h",
+              "ViewState": "AQIAAG8CAAAAAAAAAAAiwHcCAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T19:20:46.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "furnsh_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\furnsh_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\furnsh_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\furnsh_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\furnsh_c.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:23:10.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "f2cMang.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\f2cMang.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\f2cMang.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\f2cMang.h",
+              "RelativeToolTip": "CSpiceDll\\f2cMang.h",
+              "ViewState": "AQIAACQBAAAAAAAAAAAAACsBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T19:19:02.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "spkezr_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\spkezr_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\spkezr_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\spkezr_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\spkezr_c.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:27:50.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SpiceUsr.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\chrnos_c\\SpiceUsr.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\chrnos_c\\SpiceUsr.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\chrnos_c\\SpiceUsr.h",
+              "RelativeToolTip": "CSpiceDll\\chrnos_c\\SpiceUsr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T15:32:04.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "str2et_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\str2et_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\str2et_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\str2et_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\str2et_c.c",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:26:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dlatdr_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dlatdr_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\dlatdr_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dlatdr_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\dlatdr_c.c",
+              "ViewState": "AQIAAOEAAAAAAAAAAAAxwOIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:29:04.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "drdlat_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\drdlat_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\drdlat_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\drdlat_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\drdlat_c.c",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAxwOUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:29:05.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dskx02_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dskx02_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\dskx02_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dskx02_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\dskx02_c.c",
+              "ViewState": "AQIAAIwBAAAAAAAAAAAxwJMBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:29:06.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SpiceUsr.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\dskexp_c\\SpiceUsr.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\dskexp_c\\SpiceUsr.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\dskexp_c\\SpiceUsr.h",
+              "RelativeToolTip": "CSpiceDll\\dskexp_c\\SpiceUsr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T15:32:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SpiceUsr.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\toxfr_c\\SpiceUsr.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\toxfr_c\\SpiceUsr.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\toxfr_c\\SpiceUsr.h",
+              "RelativeToolTip": "CSpiceDll\\toxfr_c\\SpiceUsr.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T15:32:09.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SpiceUsr.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\SpiceUsr.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\SpiceUsr.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\SpiceUsr.h",
+              "RelativeToolTip": "CSpiceDll\\cspice\\SpiceUsr.h",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAxwNQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T15:32:43.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "signal1.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\toxfr_c\\signal1.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\toxfr_c\\signal1.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\toxfr_c\\signal1.h",
+              "RelativeToolTip": "CSpiceDll\\toxfr_c\\signal1.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-02T15:33:28.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "getfov_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\getfov_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\getfov_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\getfov_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\getfov_c.c",
+              "ViewState": "AQIAABkCAAAAAAAAAAAxwCECAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:24:09.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ckgpav_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckgpav_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\ckgpav_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckgpav_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\ckgpav_c.c",
+              "ViewState": "AQIAAGICAAAAAAAAAAAQwHsCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:24.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ckfxfm_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckfxfm_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\ckfxfm_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckfxfm_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\ckfxfm_c.c",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAQwOgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:24.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ckfrot_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckfrot_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\ckfrot_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckfrot_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\ckfrot_c.c",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAQwAEBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:23.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ckcov_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckcov_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\ckcov_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\ckcov_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\ckcov_c.c",
+              "ViewState": "AQIAACICAAAAAAAAAAAQwDsCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bodvrd_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvrd_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\bodvrd_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvrd_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\bodvrd_c.c",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAQwN4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:21.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bodvcd_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvcd_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\bodvcd_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvcd_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\bodvcd_c.c",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAQwNYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:21.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bodvar_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvar_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\bodvar_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodvar_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\bodvar_c.c",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwJgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:21.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "bodfnd_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodfnd_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\bodfnd_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\bodfnd_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\bodfnd_c.c",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAQwJUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:20.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "badkpv_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\badkpv_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\badkpv_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\badkpv_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\badkpv_c.c",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAQwP4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:20.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "b1950_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\b1950_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\b1950_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\b1950_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\b1950_c.c",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAQwKEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:19.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "b1900_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\b1900_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\b1900_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\b1900_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\b1900_c.c",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAQwKEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:19.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "azlrec_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\azlrec_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\azlrec_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\azlrec_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\azlrec_c.c",
+              "ViewState": "AQIAALIBAAAAAAAAAAAQwMsBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:19.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "azlcpo_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\azlcpo_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\azlcpo_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\azlcpo_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\azlcpo_c.c",
+              "ViewState": "AQIAAEsCAAAAAAAAAAAQwGQCAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-02T15:21:17.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "dtime_.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dtime_.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\dtime_.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\dtime_.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\dtime_.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:33:12.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "fio.h",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\fio.h",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\fio.h",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\fio.h",
+              "RelativeToolTip": "CSpiceDll\\cspice\\fio.h",
+              "ViewState": "AQIAAEAAAAAAAAAAAABBwEwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T19:29:43.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "err.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\err.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\err.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\err.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\err.c",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAawNgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:29:40.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "corecrt_math.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_math.h",
+              "ViewState": "AQIAAMcBAAAAAAAAAAAAwNABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T19:10:21.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "open.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\open.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\open.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\open.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\open.c",
+              "ViewState": "AQIAAF4BAAAAAAAAAAAawGoBAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:14:38.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "gffove_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gffove_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\gffove_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gffove_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\gffove_c.c",
+              "ViewState": "AQIAAPoCAAAAAAAAAAAQwBEDAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:11:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "zzfcstring.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\zzfcstring.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\zzfcstring.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\zzfcstring.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\zzfcstring.c",
+              "ViewState": "AQIAAGYEAAAAAAAAAIAwwGsEAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T20:20:58.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "close.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\close.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\close.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\close.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\close.c",
+              "ViewState": "AQIAACoAAAAAAAAAAAAawDYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T20:23:22.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "s_paus.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\s_paus.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\s_paus.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\s_paus.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\s_paus.c",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:35:39.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "etime_.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\etime_.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\etime_.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\etime_.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\etime_.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:33:13.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "inquire.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\inquire.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\inquire.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\inquire.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\inquire.c",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAEwHIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:33:13.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "corecrt_io.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_io.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_io.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_io.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_io.h",
+              "ViewState": "AQIAAN8BAAAAAAAAAAAmwOgBAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T19:24:34.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "stdlib.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ViewState": "AQIAABgBAAAAAAAAAAAqwB8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T19:20:06.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "rsne.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\rsne.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\rsne.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\rsne.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\rsne.c",
+              "ViewState": "AQIAABQAAAAAAAAAAAAMwB8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:12:46.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "gfocce_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gfocce_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\gfocce_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gfocce_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\gfocce_c.c",
+              "ViewState": "AQIAAFMEAAAAAAAAAIBJwFUEAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:11:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "gfevnt_c.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gfevnt_c.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\gfevnt_c.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\gfevnt_c.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\gfevnt_c.c",
+              "ViewState": "AQIAAPIFAAAAAAAAAAAQwAsGAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:08:35.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "c_sqrt.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_sqrt.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\c_sqrt.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_sqrt.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\c_sqrt.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:11:12.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "c_sin.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_sin.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\c_sin.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_sin.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\c_sin.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:10:29.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "c_cos.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_cos.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\c_cos.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_cos.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\c_cos.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:08:53.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "c_exp.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_exp.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\c_exp.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_exp.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\c_exp.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:09:28.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "c_log.c",
+              "DocumentMoniker": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_log.c",
+              "RelativeDocumentMoniker": "CSpiceDll\\cspice\\c_log.c",
+              "ToolTip": "C:\\Users\\maxpi\\source\\repos\\CSpiceDll\\CSpiceDll\\cspice\\c_log.c",
+              "RelativeToolTip": "CSpiceDll\\cspice\\c_log.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-01T19:09:42.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

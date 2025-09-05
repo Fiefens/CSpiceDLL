@@ -1,0 +1,3 @@
+C:\Users\maxpi\source\repos\CSpiceDLL\CSpiceDll\x64\Release\CSpiceDll.vcxproj.MdMergeInputs.cache
+C:\Users\maxpi\source\repos\CSpiceDLL\CSpiceDll\x64\Release\CSpiceDll.vcxproj.cppwinrt_plat.cache
+C:\Users\maxpi\source\repos\CSpiceDLL\CSpiceDll\x64\Release\CSpiceDll.vcxproj.cppwinrt_comp.cache
